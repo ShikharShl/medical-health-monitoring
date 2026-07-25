@@ -1,0 +1,50 @@
+New Tax regime
+Gross Salary                    ₹17,70,721
+(-) Exempt Allowance 10(14)     ₹ 4,54,800   → tax-free portion
+(-) Standard Deduction          ₹   75,000   → free deduction, sabko milta hai
+─────────────────────────────────────────────
+Net Taxable Salary               ₹12,40,921
+
+(+) Capital Gains                ₹   55,733
+(+) Interest Income               ₹    9,622
+─────────────────────────────────────────────
+Total Income (Tax lagne wala)    ₹13,06,280
+
+
+employer (company) ne saal bhar mein zyada TDS kaat liya tha — ₹1,03,049 already kaat chuke the salary se.
+
+₹1,03,049 (kaata gaya TDS)  −  ₹54,351 (actual tax)  =  ₹48,700 (Refund)
+
+
+Old Tax Regime
+
+Gross Salary                        17,70,721
+(-) Exempt Allowance 10(14)          4,54,800
+(-) HRA Exemption (max possible)     3,54,144
+(-) Standard Deduction (Old Regime)     50,000
+────────────────────────────────────────────
+Salary Income                        9,11,777
+
+
+House Property (Home Loan Interest)
+Self-Occupied Property Loss = -2,00,000
+
+Other Sources (Interest)         9,622
+Capital Gains (unchanged)       55,733
+ Gross Total Income
+9,11,777 - 2,00,000 + 9,622 + 55,733 = 7,77,132
+
+80C:              1,50,000
+80CCD(1B) NPS:       50,000
+Total VIA:         2,00,000
+
+Total Income
+7,77,132 - 2,00,000 = 5,77,130 (rounded)
+
+Tax Calculation
+
+577130 pr old tax regime ke hisab se 19234 tax deduct hoga
+TDS already paid       1,03,049
+(-) Actual Tax         19,234
+────────────────────────────
+Refund                 83,815
